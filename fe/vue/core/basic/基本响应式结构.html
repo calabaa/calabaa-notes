@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>基本响应式</title>
+</head>
+
+<body>
+	<div id="app">xp</div>
+	<script type="text/javascript">
+		function isObject(data) {
+			return typeof data === 'object' && typeof data !== 'null'
+		}
+		function reactive(data) {
+			if (!isObject(data)) return
+			const proxy = new Proxy(data, {
+				get(target, key) {
+					return target[key]
+				},
+				set(target, key, value) {
+					target[key] = value
+					effect()
+					return true
+				}
+			})
+			return proxy
+		}
+		const obj = { name: 'xp' }
+		const state = reactive(obj)
+
+		function effect() {
+			app.innerHTML = state.name
+		}
+
+		setTimeout(() => {
+			state.name = 'xxp'
+		}, 1000);
+	</script>
+</body>
+
+</html>

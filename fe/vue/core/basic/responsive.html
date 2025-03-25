@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>响应式结构</title>
+    <script src="./reactive.js"></script>
+</head>
+
+<body>
+    <div id="app">xp</div>
+    <script type="text/javascript">
+
+        const state1 = reactive({ name: 'xp' })
+        const state2 = reactive({ name: 'xxp' })
+        effect(function e1() {
+            console.log('e1...', state1.name);
+        })
+        effect(function e2() {
+            console.log('e2...', state2.name);
+        })
+        setTimeout(() => {
+            state1.name = 'change xp'
+        }, 1000);
+        console.log(bucket);
+
+    </script>
+</body>
+
+</html>

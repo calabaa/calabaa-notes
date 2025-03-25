@@ -1,0 +1,17 @@
+{
+  "name": "tree-shaking-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pnpm": "^9.15.2",
+    "rollup": "^4.29.1"
+  }
+}

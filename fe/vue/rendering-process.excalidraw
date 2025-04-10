@@ -1233,7 +1233,7 @@
       "x": -1339.0615642799808,
       "y": -5755.315721477223,
       "width": 116.93219015225772,
-      "height": 100,
+      "height": 14.873136096810603,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1522,7 +1522,7 @@
       "x": -1142.1530351761567,
       "y": -5689.9608758373215,
       "width": 0.9529967550828955,
-      "height": 100,
+      "height": 63.95521143171591,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1618,7 +1618,7 @@
       "x": -1142.0246994004287,
       "y": -5566.986111801532,
       "width": 0.837979024455564,
-      "height": 100,
+      "height": 69.840035418522,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1796,7 +1796,7 @@
       "x": -1338.5160101321524,
       "y": -5842.249089865029,
       "width": 248.40387652403982,
-      "height": 100,
+      "height": 1.583264272286231,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
@@ -1892,7 +1892,7 @@
       "x": -1361.6434550057825,
       "y": -5809.852010624329,
       "width": 206.2509714957348,
-      "height": 100,
+      "height": 63.446596000667554,
       "angle": 0,
       "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
@@ -1992,7 +1992,7 @@
       "x": -1143.225342823886,
       "y": -5746.405414623661,
       "width": 113.91719327354322,
-      "height": 100,
+      "height": 65.85955723025032,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
@@ -2106,8 +2106,8 @@
       "index": "b1B",
       "roundness": null,
       "seed": 83969383,
-      "version": 2099,
-      "versionNonce": 549524761,
+      "version": 2100,
+      "versionNonce": 1325104715,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2121,13 +2121,9 @@
         {
           "id": "UtjKUM6JN1kNs1y3axM9E",
           "type": "arrow"
-        },
-        {
-          "id": "WvJnri3YWW0uBC3cfBzSR",
-          "type": "arrow"
         }
       ],
-      "updated": 1742844897223,
+      "updated": 1743695400024,
       "link": null,
       "locked": false
     },
@@ -2174,7 +2170,7 @@
       "x": -903.1677675720631,
       "y": -5600.847018303147,
       "width": 162.061361078528,
-      "height": 138,
+      "height": 1.7477249500702516,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "#ffd8a8",
@@ -2190,8 +2186,8 @@
         "type": 2
       },
       "seed": 446283239,
-      "version": 1790,
-      "versionNonce": 391718135,
+      "version": 1791,
+      "versionNonce": 733939819,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2199,7 +2195,7 @@
           "id": "0p3MSq9zpj_cAYOmrmfsh"
         }
       ],
-      "updated": 1742844897223,
+      "updated": 1743695422065,
       "link": null,
       "locked": false,
       "points": [
@@ -2230,10 +2226,10 @@
     {
       "id": "0p3MSq9zpj_cAYOmrmfsh",
       "type": "text",
-      "x": -1022.1984175937489,
-      "y": -5629.973155828112,
-      "width": 75.99993896484375,
-      "height": 60,
+      "x": -1032.198448111327,
+      "y": -5639.973155828112,
+      "width": 96,
+      "height": 80,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "#ffd8a8",
@@ -2247,20 +2243,20 @@
       "index": "b1E",
       "roundness": null,
       "seed": 1464175817,
-      "version": 1031,
-      "versionNonce": 36036281,
+      "version": 1053,
+      "versionNonce": 892863749,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1742844881109,
+      "updated": 1743695421074,
       "link": null,
       "locked": false,
-      "text": "Patch补丁\nCompare\n对比",
+      "text": "Patch补丁\nCompare\n对比\n找出差异部分",
       "fontSize": 16,
       "fontFamily": 8,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "d_YEfN8eKuyoEi209g9wK",
-      "originalText": "Patch补丁\nCompare\n对比",
+      "originalText": "Patch补丁\nCompare\n对比\n找出差异部分",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -2367,10 +2363,10 @@
     {
       "id": "WvJnri3YWW0uBC3cfBzSR",
       "type": "arrow",
-      "x": -834.022556895783,
-      "y": -5569.7183035020225,
-      "width": 229.5840836337768,
-      "height": 111.57304262347587,
+      "x": -964.311619395783,
+      "y": -5557.2768972520225,
+      "width": 99.5918961337768,
+      "height": 99.13163637347589,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "#ffd8a8",
@@ -2386,8 +2382,8 @@
         "type": 2
       },
       "seed": 1567863497,
-      "version": 1815,
-      "versionNonce": 418868759,
+      "version": 2621,
+      "versionNonce": 50301477,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2395,7 +2391,7 @@
           "id": "ihixOmo-SZl-C2jBhUEl_"
         }
       ],
-      "updated": 1742844897223,
+      "updated": 1743695579790,
       "link": null,
       "locked": false,
       "points": [
@@ -2404,24 +2400,20 @@
           0
         ],
         [
-          -63.22477992725049,
-          94.98522023926188
+          -20.259936177250438,
+          62.93053273926216
         ],
         [
-          -229.5840836337768,
-          111.57304262347587
+          -99.5918961337768,
+          99.13163637347589
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "X910NPp1i9rJjAL90TF2s",
-        "focus": -0.12009119518894996,
-        "gap": 3.894937690102779
-      },
+      "startBinding": null,
       "endBinding": {
         "elementId": "ghYX7jFsN_PjQYgDc16A4",
-        "focus": 0.4432265349041156,
-        "gap": 2.427428284701591
+        "focus": 0.7057455401748974,
+        "gap": 2.130553284701591
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -2430,8 +2422,8 @@
     {
       "id": "ihixOmo-SZl-C2jBhUEl_",
       "type": "text",
-      "x": -935.2473063054554,
-      "y": -5504.73308326276,
+      "x": -1010.2394938054554,
+      "y": -5526.86980201276,
       "width": 75.99993896484375,
       "height": 60,
       "angle": 0,
@@ -2447,11 +2439,11 @@
       "index": "b1I",
       "roundness": null,
       "seed": 1423430119,
-      "version": 1024,
-      "versionNonce": 264651897,
+      "version": 1025,
+      "versionNonce": 1194895435,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1742844881109,
+      "updated": 1743695414687,
       "link": null,
       "locked": false,
       "text": "Patch补丁\nUpdate\n更新",
